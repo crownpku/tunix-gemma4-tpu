@@ -6,6 +6,8 @@ In the world of AI, generalists are common, but specialists are rare. Today, I'm
 
 This wasn't a standard "plug-and-play" exercise. We pushed the boundaries of **Tunix (JAX)** on a **Google Cloud TPU v5litepod-4**, encountered memory walls, patched library-level attention bugs, and learned some hard lessons about Per-Layer Embedding (PLE) tables. Here is the full, unvarnished technical journey.
 
+This project is part of the #TPUSprint. Google Cloud credits are provided for this project.
+
 ---
 
 ## 1. The Architecture: Why Gemma 4 E2B-IT?
