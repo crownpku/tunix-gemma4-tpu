@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Secrets and Tokens
+.env
+.gcloud_config/
+.ssh/
+
+# Data and Models
+data/
+models/
+checkpoints_dry_run/
+project_code.tar.gz
+results/*.safetensors
+
+# Results (optional, keeping small JSONs but ignoring large artifacts)
+# results/*.json

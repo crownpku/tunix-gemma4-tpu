@@ -1,0 +1,17 @@
+[
+    {
+        "instruction": "Does Medicare Cover Co-Pays?",
+        "expected": "Original Medicare Part A & Medicare Part B does not cover co-pays , deductibles or coinsurance . In fact , it covers only about 80 % of your healthcare costs . The remaining 20 % is your responsibility and is limitless unless you have a Medicare Supplement Plan -LRB- Medigap Plan -RRB- . Depending on which Medicare Supplement Plan you have it can pay all or most of those costs . For more information about Medicare or to Compare Medicare Supplement Plans instantly online visit our website at SummitMedigap.com .",
+        "generated": "FROHCO justru **... \\n  **... **n**...from"
+    },
+    {
+        "instruction": "Does Auto Insurance Decrease At Age 25?",
+        "expected": "Auto insurance policies typically have a reduced rating classification for drivers at the renewal following their 25th birthday . This primarily adjusts the rating from a previously youthful class to an adult class , and usually comes out to be a slightly lower rate than before . Depending on the company , there are a few other ways to get adult classification , for example if you were married .",
+        "generated": "Let's \u091a\u0932\u0947\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c\\preset\u200ckAEO-n\u0e40\u0e1eTP   **"
+    },
+    {
+        "instruction": "Does Auto Insurance Decrease At Age 25?",
+        "expected": "Your auto insurance coverage certainly does n't decrease but the premium you pay for it usually will if you have a good driving record . When you reach age 25 and have not had tickets or accidents that resulted in insurance claims , you are considered less risk to the insurance company . They will usually lower your rate but even if they do , that is a great time to Reshop the rate with several other companies . You will usually see even more savings that way .",
+        "generated": "Let's \u091a\u0932\u0947\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c\\preset\u200ckAEO-n\u0e40\u0e1eTP   **"
+    }
+]

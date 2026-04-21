@@ -1,0 +1,20 @@
+[project]
+name = "tunix-gemma4-tpu"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.13.0",
+    "datasets>=4.8.4",
+    "flax>=0.12.6",
+    "google-tunix>=0.1.6",
+    "huggingface-hub>=0.36.2",
+    "jax>=0.10.0",
+    "jaxlib>=0.10.0",
+    "torch>=2.11.0",
+    "tqdm>=4.67.3",
+]
+
+[tool.uv.sources]
+google-tunix = { git = "https://github.com/google/tunix.git" }
