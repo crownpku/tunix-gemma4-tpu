@@ -2,6 +2,8 @@
 
 This repository contains the complete workflow for fine-tuning the **Gemma 4 E2B-IT (5.1B)** model on the `insuranceQA-v2` dataset using **Tunix (JAX)** on Google Cloud TPUs.
 
+This project is part of the #TPUSprint. Google Cloud credits are provided for this project.
+
 ## Project Summary
 
 The goal of this project was to specialize a state-of-the-art Gemma 4 model for the insurance domain. We leveraged the high-performance JAX ecosystem via Tunix to perform Supervised Fine-Tuning (SFT) with LoRA.
